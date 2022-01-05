@@ -2,3 +2,56 @@ body{
     font-family: 'EB Garamond', serif;
     margin:0px;
 }
+.flexible-container{
+    display:flex;
+    margin-bottom:150px;
+    padding-left: 50px;
+}
+h1{
+    font-size: 50px;
+    border-left: 2px solid orange;
+    
+}
+h2{
+    font-size: 40px;
+    text-align:center;
+}
+.darksalmon{
+    color:darksalmon
+}
+#blue{
+    color:blue;
+}
+.link-button{
+     text-decoration: none;
+     background-image:linear-gradient(blue,cyan);
+     color:white;
+     padding:8px;
+     border-radius:10px;
+     
+}
+.width-div{
+    width:40%;
+}
+.width-div img{
+    width:90%;
+    padding-left:150px;
+}
+.border-line{
+border-left:1px solid; 
+border-image:linear-gradient(blue,cyan);    
+border-image-slice:50;
+border-c
+}
+.box{
+    box-shadow:10px 10px 40px;
+    width:28%;
+    border-radius:15px;
+    padding-left:15px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.small-pic{
+    width:120px;
+    padding-left:15px;
+}
