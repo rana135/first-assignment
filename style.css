@@ -71,10 +71,12 @@ padding:15px;
     background-repeat: no-repeat;
     background-position: left;
     background-size:200px;
-footer{
+}
+.foot{
     background-color: black;
-    height:120px;
-    text-align: center;
-    width: 100%;
     color:white;
+    text-align:center;
+}
+small{
+    color:blanchedalmond;
 }
