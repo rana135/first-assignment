@@ -59,3 +59,17 @@ border-c
     width:120px;
     padding-left:15px;
 }
+.bac-imag{
+     background-image: url(images/shapes/shape-1.png);   
+     background-repeat: no-repeat;
+     background-position: left;
+     
+}
+footer{
+    width:100%;
+}
+footer{
+    background-color: black;
+    height:120px;
+    
+}
