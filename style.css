@@ -60,13 +60,17 @@ padding:15px;
     width:120px;
     padding-left:15px;
 }
-.bac-imag{
+.back-imag{
      background-image: url(images/shapes/shape-1.png);   
      background-repeat: no-repeat;
-     background-position: left;
-     
-     
+     background-position: right;
+     background-size:200px;     
 }
+.backg-imag{
+    background-image: url(images/shapes/shape-1.png);   
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:200px;
 footer{
     background-color: black;
     height:120px;
