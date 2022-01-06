@@ -42,10 +42,11 @@ h3{
     
 }
 .border-line{
-border-left:1px solid; 
+border-left:2px solid; 
 border-image:linear-gradient(blue,cyan);    
-border-image-slice:50;
-border-c
+border-image-slice:1;
+padding:15px;
+
 }
 .box{
     box-shadow:10px 10px 40px gray;
@@ -64,12 +65,12 @@ border-c
      background-repeat: no-repeat;
      background-position: left;
      
-}
-footer{
-    width:100%;
+     
 }
 footer{
     background-color: black;
     height:120px;
-    
+    text-align: center;
+    width: 100%;
+    color:white;
 }
